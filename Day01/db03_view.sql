@@ -4,7 +4,7 @@ SELECT *
     
 -- 뷰 생성
 CREATE VIEW uv_memberTBL
-	AS
+AS
 SELECT memberName, memberAddress FROM memberTBL;
 
 -- 뷰 조회
