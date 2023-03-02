@@ -11,4 +11,10 @@
     - DB 모델링
     - MySQL 유틸리티
     - SQL 기본
+
+    
+# 3일차
+1. MySQL 학습
+    - SQL 기본
+    - SQL 고급
     
