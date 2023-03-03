@@ -29,3 +29,9 @@
 1. MySQL 학습
     - SQL 고급
         - JOIN
+        - TABLE
+        - VIEW
+        - INDEX
+        - CONSTRAINT
+2. MySQL 활용
+    - BookRentalShop 쿼리 실습
