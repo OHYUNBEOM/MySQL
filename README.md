@@ -1,5 +1,5 @@
 # MySQL_DB_2023
-![Mysql](https://github.com/OHYUNBEOM/MySQL_DB_2023/tree/main/images/mysql.png)
+![Mysql](https://raw.githubusercontent.com/OHYUNBEOM/MySQL_DB_2023/main/images/mysql.png)
 
 # 1일차
 1. MySQL 학습
