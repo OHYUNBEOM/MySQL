@@ -1,4 +1,6 @@
 # MySQL_DB_2023
+![Mysql](https://github.com/OHYUNBEOM/MySQL_DB_2023/tree/main/images/mysql.png)
+
 # 1일차
 1. MySQL 학습
     - 데이터베이스 개요
@@ -35,3 +37,9 @@
         - CONSTRAINT
 2. MySQL 활용
     - BookRentalShop 쿼리 실습
+
+# 5일차
+1. MySQL 활용
+    - BookRentalShop 쿼리 실습
+2. 코딩테스트
+    - BookRentalShop
